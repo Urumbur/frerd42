@@ -1,0 +1,15 @@
+.listItem {
+  background-color: #f4e9cd;
+  color: #031926;
+  width: 100%;
+  margin: 1rem 0;
+  border-radius: 10px;
+}
+
+.noActive {
+  background-color: #f4e9cdc5;
+}
+
+.noActive--text {
+  text-decoration: line-through;
+}
